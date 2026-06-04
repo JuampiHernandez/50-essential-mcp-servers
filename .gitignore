@@ -1,0 +1,20 @@
+# os
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# env / secrets
+.env
+.env.*
+*.local
+
+# logs
+*.log
+
+# node (in case anyone runs the example commands here)
+node_modules/
