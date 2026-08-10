@@ -1,3 +1,5 @@
+<img src="assets/header.png" alt="50 MCP servers that give claude, codex and gemini superpowers — a curated index across five categories: agentic and core dev, data and ops, corporate and teams, web3 and trading, creator tools" width="100%">
+
 # 50 essential MCP servers for claude, gemini and codex
 
 the model context protocol started life as a niche anthropic spec in late 2024. eighteen months later it's the standard plug every serious AI agent speaks — claude code, gemini cli, codex, cursor, windsurf, all of them. the pitch is boringly simple: instead of every model writing a custom integration for every tool, each model speaks MCP once and every tool that speaks it back becomes available. anthropic calls it a usb-c port for AI. that's the right mental model.
